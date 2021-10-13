@@ -1,0 +1,167 @@
+Idea slides
+Break the block
+
+--Games--
+Board games
+    "Monopoly"
+    "Snakes and Ladders"
+    "Rat Trap"
+Video games
+    "Nastolgia"
+    "Duke Nukem"
+    "Cod"
+    "Modern Warfair"
+    "Source Engine"
+    "Unreal Engine"
+    "Stick Fight"
+    "Dr. Mario"
+    "Rampart"
+Pranks
+    "Punk'd"
+    "Bad Youtube Channels"
+    "How to get a girl to kiss you"
+Boredom games
+    "I Spy With My Little Eye"
+    "Stop Touching Me"
+    "Don't Make Me Pull Over This Car"
+    "Imaginary Super Hero Building Jumps"
+
+--Science--
+Biology
+    "Echidna"
+    "Capybara"
+    "Quokka"
+    "Pika"
+    "Difference between Eagle Hawk Raptors"
+    "Tardigrade"
+    "Difference between virus and bacteria"
+    "T cells"
+    "extremophiles"
+    "Opossum vs Possum"
+Physics
+    "contious universe"
+    "virtual particles"
+    "big bang"
+    "elemental particle break down temperatures"
+    "spooky action at a distance"
+Chemistry
+    "element 42"
+    "shared electron shells"
+    "electron jump"
+    "physical reaction"
+    "chemical reaction"
+    "acid vs base"
+Psychology
+    "Freud"
+    "Yung"
+    "adler"
+    "fear of the unknown"
+    "childhood influence"
+    "depression"
+    "in-group out-group mentality"
+    "narcessism"
+    "self flagelation"
+Geophysical
+    "tectonic plates"
+    "divergent boundry techtonic plates"
+    "convergent boundry techtonic plates"
+    "pangea"
+
+--History--
+Origins
+    "homosapians"
+    "homo erectis"
+Evolution
+    "Human evelution"
+    "Yearly Flu Shots"
+Art
+    "Contemporary Art"
+    "Post-Impressionism"
+    "Impressionism"
+    "Harlem Renaissance"
+    "Minimalism Art"
+    "Photo Realism art"
+    "Dada Art Movement"
+    "Expressionism art"
+    "Arts and Crafts Movement"
+    "American Scene Painting"
+    "Romanticism art"
+    "Pre-Raphaelite BrotherHood"
+    "Symbolism art"
+    "Realism art"
+    "Neo Classicism"
+    "War Art"
+    "Lost known art"
+    "Found unknown art"
+    "Changed reality"
+
+--Things--
+Around the house
+Ugly
+Beautiful
+Everyday
+Forgotten
+Rare
+Unique
+
+--Day to day--
+Morning routine
+The usual
+Bed
+Water
+Family
+Loves
+Hates
+Fears
+Dreams
+Desires
+Growth
+
+--Activities--
+Walking
+Exercise
+Relating
+Stressors
+
+--Mundane--
+Cleaning
+Laundry
+Recycling
+Cutting your hair/beard/armpit/legs
+Scrolling and scrolling
+Nothing to watch
+Nothing to do
+
+<!doctype html>
+<html itemscope itemtype="http://schema.org/Product" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/html">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+	<meta name='theme-color' content='#003535'>
+    <style>
+    body{
+        background: linear-gradient(to bottom right, blue, pink);
+    }
+    .mainBlock{
+    
+    }
+    .mainParent{
+    
+    }
+    </style>
+  </head>
+  <body>
+	<div class="mainBlock">
+    <div class="mainParent">
+        <div class="mainButtons">
+            <div class="button">Random Idea</div>
+        </div>
+        <div id="ideaDisplay">Awaiting your input.</div>
+    </div>
+    </div>
+  </body>
+</html>
+
